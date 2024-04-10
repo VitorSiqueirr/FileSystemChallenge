@@ -1,8 +1,6 @@
 # HTTP Filesystem by Vitor Siqueira
 # Filesystem
 
-The behavior of the app is described in the gist https://gist.github.com/jprask/9f6870db5f851d08bcbff42f1e9a1f03.
-
 [nvm](https://github.com/nvm-sh/nvm) is recommended to work with this app. after navigating to the project root folder, run `nvm use` and make sure node.js is the correct version defined in `.nvmrc`
 
 There's a few useful commands to run when developing.
