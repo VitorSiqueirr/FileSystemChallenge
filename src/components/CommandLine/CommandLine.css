@@ -1,0 +1,16 @@
+.command-line-container {
+  position: sticky;
+  bottom: 0;
+  background-color: #242424;
+  padding: 2em;
+  width: 100%;
+}
+
+.command-line-container input {
+  width: 100%;
+  padding: 1em;
+}
+
+.command-line-error {
+  color: red;
+}

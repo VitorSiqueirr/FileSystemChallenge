@@ -1,0 +1,188 @@
+[
+  {
+    "id": "root",
+    "type": "folder",
+    "name": "/",
+    "children": ["notes", "music", "shows", "todos"]
+  },
+  {
+    "id": "notes",
+    "type": "folder",
+    "name": "notes",
+    "children": ["note1", "note2", "note3"]
+  },
+  {
+    "id": "note1",
+    "type": "file",
+    "name": "Barber Confession",
+    "contents": "I have taken more lives than I can count."
+  },
+  {
+    "id": "note2",
+    "type": "file",
+    "name": "Dark Secrets",
+    "contents": "My shop hides secrets darker than the night."
+  },
+  {
+    "id": "note3",
+    "type": "file",
+    "name": "The Silent Blade",
+    "contents": "My razor sings a deadly lullaby."
+  },
+  {
+    "id": "music",
+    "type": "folder",
+    "name": "music",
+    "children": ["rock", "electronic", "hip-hop", "classical"]
+  },
+  {
+    "id": "rock",
+    "type": "folder",
+    "name": "rock",
+    "children": ["gorillaz", "pantera", "black_sabbath"]
+  },
+  {
+    "id": "electronic",
+    "type": "folder",
+    "name": "electronic",
+    "children": ["infected_mushroom", "mau_p"]
+  },
+  {
+    "id": "hip-hop",
+    "type": "folder",
+    "name": "hip-hop",
+    "children": ["eminem", "biggie_smalls", "jay_z", "twenty_one_pilots"]
+  },
+  {
+    "id": "classical",
+    "type": "folder",
+    "name": "classical",
+    "children": ["beethoven"]
+  },
+  {
+    "id": "gorillaz",
+    "type": "file",
+    "name": "Gorillaz",
+    "contents": "8.5"
+  },
+  {
+    "id": "pantera",
+    "type": "file",
+    "name": "Pantera",
+    "contents": "9.0"
+  },
+  {
+    "id": "black_sabbath",
+    "type": "file",
+    "name": "Black Sabbath",
+    "contents": "9.2"
+  },
+  {
+    "id": "infected_mushroom",
+    "type": "file",
+    "name": "Infected Mushroom",
+    "contents": "8.7"
+  },
+  {
+    "id": "mau_p",
+    "type": "file",
+    "name": "Mau P",
+    "contents": "7.8"
+  },
+  {
+    "id": "twenty_one_pilots",
+    "type": "file",
+    "name": "Twenty One Pilots",
+    "contents": "8.0"
+  },
+  {
+    "id": "beethoven",
+    "type": "file",
+    "name": "Beethoven",
+    "contents": "9.5"
+  },
+  {
+    "id": "eminem",
+    "type": "file",
+    "name": "Eminem",
+    "contents": "9.3"
+  },
+  {
+    "id": "biggie_smalls",
+    "type": "file",
+    "name": "Biggie Smalls",
+    "contents": "9.1"
+  },
+  {
+    "id": "jay_z",
+    "type": "file",
+    "name": "Jay Z",
+    "contents": "9.4"
+  },
+  {
+    "id": "shows",
+    "type": "folder",
+    "name": "shows",
+    "children": [
+      "south_park",
+      "the_simpsons",
+      "family_guy",
+      "dont_hug_me_im_scared",
+      "futurama"
+    ]
+  },
+  {
+    "id": "south_park",
+    "type": "file",
+    "name": "South Park",
+    "contents": "9.8"
+  },
+  {
+    "id": "the_simpsons",
+    "type": "file",
+    "name": "The Simpsons",
+    "contents": "9.1"
+  },
+  {
+    "id": "family_guy",
+    "type": "file",
+    "name": "Family Guy",
+    "contents": "8.5"
+  },
+  {
+    "id": "dont_hug_me_im_scared",
+    "type": "file",
+    "name": "Don't Hug Me I'm Scared",
+    "contents": "10"
+  },
+  {
+    "id": "futurama",
+    "type": "file",
+    "name": "Futurama",
+    "contents": "9.0"
+  },
+  {
+    "id": "todos",
+    "type": "folder",
+    "name": "todos",
+    "children": ["todo1", "todo2", "todo3"]
+  },
+  {
+    "id": "todo1",
+    "type": "file",
+    "name": "Buy a new razor",
+    "contents": "todo"
+  },
+  {
+    "id": "todo2",
+    "type": "file",
+    "name": "Clean up the shop",
+    "contents": "todo"
+  },
+  {
+    "id": "todo3",
+    "type": "file",
+    "name": "Dispose of evidence",
+    "contents": "done"
+  }
+]
